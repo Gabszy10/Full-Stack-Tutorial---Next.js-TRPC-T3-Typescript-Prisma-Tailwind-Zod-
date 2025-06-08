@@ -1,0 +1,11 @@
+{
+  "workbench.colorTheme": "Andromeda Italic Bordered",
+  "editor.fontSize": 14,
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": false,
+  "files.autoSave": "onWindowChange",
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+  "explorer.compactFolders": false,
+  "gitlens.currentLine.enabled": true
+}

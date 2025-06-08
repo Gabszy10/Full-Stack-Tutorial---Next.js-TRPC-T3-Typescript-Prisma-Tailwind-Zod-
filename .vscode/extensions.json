@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    "EliverLara.andromeda",
+    "yzhang.markdown-all-in-one",
+    "bierner.markdown-preview-github-styles",
+    "christian-kohler.path-intellisense",
+    "oderwat.indent-rainbow",
+    "eamodio.gitlens",
+    "xabikos.JavaScriptSnippets",
+    "esbenp.prettier-vscode",
+    "shellcheck.shellcheck",
+    "Gruntfuggly.todo-tree",
+    "GitHub.copilot",
+    "formulahendry.auto-rename-tag",
+    "ionutvmi.path-autocomplete",
+    "EditorConfig.EditorConfig",
+    "tabnine.tabnine-vscode"
+  ]
+}
